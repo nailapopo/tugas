@@ -5,7 +5,7 @@ using namespace std;
 int main()
 { 
     // orang 1
-
+ngasih isu
 
     // orang 2 
     cout<<"##   Program Aplikasi Kasir  ##"<<endl;
